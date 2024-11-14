@@ -1,0 +1,11 @@
+vocals: 536
+guitar: 383
+piano: 252
+drums: 230
+bass: 180
+saxophone: 144
+rapper: 143
+trumpet: 118
+flute: 62
+strings: 59
+leadership: 50

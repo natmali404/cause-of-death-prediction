@@ -1,0 +1,9 @@
+n.a.: 519
+rock: 341
+jazz: 307
+soul: 253
+pop: 132
+hip hop: 110
+folk: 101
+electronic: 43
+classical: 34

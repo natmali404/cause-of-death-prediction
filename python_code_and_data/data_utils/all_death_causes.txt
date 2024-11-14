@@ -1,0 +1,10 @@
+cancer: 272
+illness: 253
+nautural causes: 205
+heart attack: 154
+organ failure: 139
+accident: 119
+murder: 95
+overdose: 83
+suicide: 51
+stroke: 38
